@@ -1,2 +1,2 @@
-# Data-Structures
-## A collection of code exploring data structures and algorithms. 
+# Graphs
+## A collection of code exploring graph data structures 
